@@ -1,3 +1,3 @@
-# template
+# npm-release-execute
 
-Action template repository
+Prepare and execute the changesets release action.
