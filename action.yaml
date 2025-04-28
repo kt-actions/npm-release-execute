@@ -1,4 +1,4 @@
-name: NPM Release
+name: NPM Changesets Release
 description: Prepare and execute the changesets release action
 
 inputs:
